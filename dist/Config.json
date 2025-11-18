@@ -1,0 +1,13 @@
+{
+  "PING_INTERVAL": "25",
+  "AD_SERVER": "DC.laboratorio.local",
+  "AD_USER": "gAAAAABpHMcBms0q0svKhR4gfdxkT791esz-Bc8_AA8bSuMi1VtZL_V1_5WtqSyTloeBaVWKOa_rMwxRORplo4o8IQT5FLrEGMx_c9_H7fbbwwwcNMa1dlM=",
+  "AD_PASSWORD": "gAAAAABpHMcBlwUNc1Wjt5fB9X487U7OwrR3zh35biGueqZ2KPldqzwbve0NZvOr7Wk_egIt-M_xLGpq5GHlYMXVyjpaYJtuSQ==",
+  "AD_SEARCH_BASE": "DC=laboratorio,DC=local",
+  "DB_DRIVER": "ODBC Driver 17 for SQL Server",
+  "DB_SERVER": ".\\SQLEXPRESS",
+  "DB_NAME": "DbAlgoritmo",
+  "DB_TRUSTED": "yes",
+  "DB_USER": "",
+  "DB_PASSWORD": ""
+}
