@@ -3530,3 +3530,18 @@ AttributeError: module 'jwt' has no attribute 'encode'
 [2025-11-18 19:47:34] [WARNING] Ping fallido: PCCLIENTE → Inactivo
 [2025-11-18 19:56:57] [INFO] Equipos obtenidos desde AD: 2
 [2025-11-18 19:57:01] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:30:14] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:30:44] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:31:14] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:31:14] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:31:14] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 21:31:44] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:31:44] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:32:15] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:32:15] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:32:45] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:32:45] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:33:15] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:33:15] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:33:15] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:33:15] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
