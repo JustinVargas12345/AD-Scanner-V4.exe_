@@ -222,3 +222,61 @@
 [2025-11-18 21:27:27] [INFO] Equipos obtenidos desde AD: 2
 [2025-11-18 21:27:58] [INFO] Equipos obtenidos desde AD: 2
 [2025-11-18 21:28:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:39:05] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:39:05] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:43:45] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:43:45] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:43:45] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:44:10] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:44:10] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:44:10] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:44:35] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:44:35] [INFO] Estado de PCCLIENTE cambió de Inactivo a Activo
+[2025-11-18 21:44:35] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:45:00] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:45:00] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:45:25] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:45:25] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:45:50] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:45:50] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:45:50] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 21:46:15] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:46:15] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:46:15] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:46:15] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
+[2025-11-18 21:46:40] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:46:40] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:46:40] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:47:05] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:47:05] [INFO] Estado de PCCLIENTE cambió de Inactivo a Activo
+[2025-11-18 21:47:31] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:47:31] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:47:31] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 21:47:56] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:47:56] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:48:21] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:48:21] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:48:21] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 21:48:46] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:48:46] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:49:11] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:49:11] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:49:37] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:49:37] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:50:02] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:50:02] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:50:02] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 21:50:27] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:50:27] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:50:27] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:50:27] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
+[2025-11-18 21:50:52] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:50:52] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:50:52] [INFO] Estado de PCCLIENTE cambió de Inactivo a Activo
+[2025-11-18 21:51:17] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:51:17] [WARNING] Ping fallido: DC → Inactivo
+[2025-11-18 21:51:17] [WARNING] Ping fallido: PCCLIENTE → Inactivo
+[2025-11-18 21:51:17] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
+[2025-11-18 21:51:42] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:51:42] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:51:42] [WARNING] Ping fallido: PCCLIENTE → Inactivo

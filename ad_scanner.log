@@ -3545,3 +3545,54 @@ AttributeError: module 'jwt' has no attribute 'encode'
 [2025-11-18 21:33:15] [INFO] Estado de DC cambió de Inactivo a Activo
 [2025-11-18 21:33:15] [WARNING] Ping fallido: PCCLIENTE → Inactivo
 [2025-11-18 21:33:15] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
+[2025-11-18 21:55:36] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:55:36] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 21:56:06] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:56:06] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 21:56:36] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:56:36] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 21:57:06] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:57:06] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 21:57:36] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:58:06] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:58:37] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:59:07] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:59:37] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 21:59:58] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:00:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:00:28] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:00:28] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 22:00:58] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:00:58] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:01:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:01:28] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:01:28] [WARNING] Ping fallido tras 3 intentos: PCCLIENTE
+[2025-11-18 22:01:28] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
+[2025-11-18 22:01:58] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:01:58] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:01:58] [INFO] Estado de PCCLIENTE cambió de Inactivo a Activo
+[2025-11-18 22:02:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:02:28] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:02:58] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:02:58] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:02:58] [WARNING] Ping fallido tras 3 intentos: PCCLIENTE
+[2025-11-18 22:02:58] [INFO] Estado de PCCLIENTE cambió de Activo a Inactivo
+[2025-11-18 22:03:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:03:28] [INFO] Estado de PCCLIENTE cambió de Inactivo a Activo
+[2025-11-18 22:03:28] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:03:59] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:03:59] [INFO] Estado de DC cambió de Inactivo a Activo
+[2025-11-18 22:04:29] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:04:29] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:04:29] [INFO] Estado de DC cambió de Activo a Inactivo
+[2025-11-18 22:04:59] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:04:59] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:05:29] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:05:29] [WARNING] Ping fallido tras 3 intentos: DC
+[2025-11-18 22:05:57] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:06:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:06:58] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:07:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:07:58] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:08:28] [INFO] Equipos obtenidos desde AD: 2
+[2025-11-18 22:08:58] [INFO] Equipos obtenidos desde AD: 2
